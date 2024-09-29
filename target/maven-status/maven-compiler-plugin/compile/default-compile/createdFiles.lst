@@ -1,0 +1,4 @@
+com\thomas\SupplyApp.class
+com\thomas\DAO\SupplyDao.class
+com\thomas\model\Supply.class
+com\thomas\service\SupplyService.class
