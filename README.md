@@ -1,7 +1,7 @@
 # 📦 Gestion de Fournitures - Backend
 
 ## Description
-Ce projet est une application Java de gestion de fournitures utilisant **MongoDB** comme base de données NoSQL, et **Docker** pour exécuter MongoDB dans un environnement isolé. Le projet est structuré de manière modulaire avec **Maven** pour gérer les dépendances, et offre une interface simplifiée pour les opérations CRUD sur les fournitures, telles que la création, la lecture, la mise à jour et la suppression.
+Ce projet est une application Java de gestion de fournitures utilisant **MongoDB** comme base de données NoSQL, et **Docker** pour exécuter MongoDB dans un environnement isolé. Le projet permet d'effectuer des opérations sur les fournitures, telles que la création, la lecture, la mise à jour et la suppression.
 
 ## Stack Technique
 
